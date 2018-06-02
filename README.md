@@ -1,6 +1,6 @@
 ## Java高并发秒杀系统API
 ## How to play
-
+dddd
  1. git clone `https://github.com/codingXiaxw/seckill.git`
  2. open IDEA -->  File  -->  New  --> Open 
  3. choose seckill's pom.xml，open it
